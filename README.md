@@ -1,8 +1,4 @@
-This is a refined and comprehensive version of your TypeScript Cheat Sheet. I have expanded the missing primitives, added critical utility types, introduced type narrowing/guards, and included advanced object-oriented features while maintaining a concise, professional format.
-
----
-
-# TypeScript Comprehensive Cheat Sheet
+# TypeScript Cheat Sheet
 
 ## 1. Data Types
 
